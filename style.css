@@ -8,8 +8,8 @@ body {
 
 .The1 {
     background-color: rgb(27, 25, 56);
-    width: 1200px;
-    height: 420px;
+    width: calc(690*2px);
+    height: calc(278*2px);
     position: absolute;
     top: 50%;
     left: 50%;
